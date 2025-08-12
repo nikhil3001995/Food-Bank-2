@@ -3,6 +3,7 @@ project:
     name: Food-Bank-2
     package:
         name: Food-Bank-2
+        namespace: dhfjgkg454647
         api_version: '63.0'
     git:
         default_branch: 'main'
